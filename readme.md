@@ -4,7 +4,7 @@
 
 ### 加入百度网盘分享群下载：
 
-[![](https://hocassian.cn/download/baiduyun_qrcodeA.png)](https://hocassian.cn/download/baiduyun_qrcodeA.png "markdown")
+[![](https://hocassian.cn/download/baiduyun_qrcodeA.png)](https://hocassian.cn/download/baiduyun_qrcodeA.png "群组链接")
 
 ## 个人数据库结构：
 
@@ -44,3 +44,8 @@
 
 <http://www.dllprotect.com/soft/index.html>
 
+*顺便打个小广告：需要翻墙/VPN/CDN加速服务的朋友可以来这里看看，价格公道：
+
+<https://www.azk.cloud>
+
+[![](https://hocassian.cn/download/vpn_discount.png)](https://hocassian.cn/download/vpn_discount.png "优惠信息")
